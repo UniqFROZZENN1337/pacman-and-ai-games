@@ -41,7 +41,7 @@ Very simple game called Snake but with Artificial Intelligence. This game used a
    8. In terminal, navigate to the file [main_menu.py]
    9. In terminal type [python main_menu.py] and hit enter
    10. Click the button with SnakeAI
-<br\>
+<br/>
        
 <br/>
 <img src="Media/snake.png" alt="Snake Gameplay" width="600"/>
@@ -62,7 +62,7 @@ An unforgettable game called Flappy Bird.A lot of nerves were spent trying to be
    8. In terminal, navigate to the file [main_menu.py]
    9. In terminal type [python main_menu.py] and hit enter
    10. Click the button with FlappyBirdAI
-<br\>
+<br/>
 
 
 <br/>
